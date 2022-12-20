@@ -2,7 +2,7 @@ package mypackage;
 
 import static mypackage.DaysOfWeek.*;
 
-public class Day {
+public class  Day {
     int day;
     String dayOfWeek;
 
